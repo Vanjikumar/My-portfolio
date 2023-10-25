@@ -7,7 +7,7 @@ body, h1, h2, p, ul, li, a {
 /* Apply some basic styling */
 header {
     font-family: 'Times New Roman', Times, serif, sans-serif;
-    background-image: url(img/bg-1-full.jpg);
+    background-image: url(bg-1-full.jpg);
     background-position:left;
     text-align: center;
     line-height: 1.5;
@@ -15,7 +15,7 @@ header {
 }
 
 body {
-   background-image: url(img/wallpaperflare.com_wallpaper.jpg);
+   background-image: url(wallpaperflare.com_wallpaper.jpg);
    background-size: cover;
    animation-duration: 50s;
    transition: all.10s;
